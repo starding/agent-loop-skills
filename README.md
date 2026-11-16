@@ -23,7 +23,7 @@
 **Claude Code**
 
 ```bash
-/plugin marketplace add <仓库地址>
+/plugin marketplace add starding/agent-loop-skills
 /plugin install agent-loop@agent-loop-skills
 ```
 
