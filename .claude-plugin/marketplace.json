@@ -1,0 +1,17 @@
+{
+  "name": "agent-loop-skills",
+  "owner": {
+    "name": "LongbridgeAI Product"
+  },
+  "plugins": [
+    {
+      "name": "agent-loop",
+      "source": "./",
+      "description": "工作循环盘点、工作流说明、沉淀复盘、写作标准与 Agent 沟通礼仪",
+      "author": {
+        "name": "LongbridgeAI Product"
+      }
+    }
+  ],
+  "description": "「我如何把工作交给 Agent」分享的配套技能集合"
+}
