@@ -1,0 +1,5 @@
+interface:
+  display_name: "Loop Spec"
+  short_description: "为一个工作循环写工作流说明"
+policy:
+  allow_implicit_invocation: false

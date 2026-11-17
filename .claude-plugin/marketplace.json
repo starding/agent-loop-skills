@@ -7,7 +7,7 @@
     {
       "name": "agent-loop",
       "source": "./",
-      "description": "工作循环盘点、工作流说明、沉淀复盘、写作标准与 Agent 沟通礼仪",
+      "description": "建模与分析、工作流（说明、运行、沉淀）、协作礼仪：把工作交给 Agent 的配套技能",
       "author": {
         "name": "LongbridgeAI Product"
       }
