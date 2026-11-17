@@ -1,8 +1,14 @@
 {
-  "name": "agent-loop",
-  "version": "0.2.0",
-  "description": "建模与分析、工作流（说明、运行、沉淀）、协作礼仪：把工作交给 Agent 的配套技能",
+  "name": "work-loops",
+  "version": "0.3.0",
+  "description": "把工作交给 Agent：建模与分析、工作流（说明、运行、沉淀）、协作礼仪",
   "author": {
     "name": "LongbridgeAI Product"
-  }
+  },
+  "skills": [
+    "./0-start/",
+    "./1-analyze/",
+    "./2-workflow/",
+    "./3-etiquette/"
+  ]
 }

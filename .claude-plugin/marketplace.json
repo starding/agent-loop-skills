@@ -1,17 +1,14 @@
 {
-  "name": "agent-loop-skills",
+  "name": "work-loops",
   "owner": {
     "name": "LongbridgeAI Product"
   },
   "plugins": [
     {
-      "name": "agent-loop",
+      "name": "work-loops",
       "source": "./",
-      "description": "建模与分析、工作流（说明、运行、沉淀）、协作礼仪：把工作交给 Agent 的配套技能",
-      "author": {
-        "name": "LongbridgeAI Product"
-      }
+      "description": "把工作交给 Agent：建模与分析、工作流（说明、运行、沉淀）、协作礼仪"
     }
   ],
-  "description": "「我如何把工作交给 Agent」分享的配套技能集合"
+  "description": "「我如何把工作交给 Agent」分享的配套技能"
 }

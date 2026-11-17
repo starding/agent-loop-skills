@@ -1,6 +1,6 @@
 ---
 name: loop-spec
-description: 为一个工作循环写一份可以直接交给 Agent 实现的工作流说明：逐轮提问，按需要用到连接、标准、做法、触发、记忆、确认这些概念，产出并维护 agent-loop/workflows/<名称>.md。由本人主动调用，例如「把这件事做成自动的」「设计一个工作流」，或在盘点（work-loop-audit）之后要落地某一项。
+description: 为一个工作循环写一份可以直接交给 Agent 实现的工作流说明：逐轮提问，按需要用到连接、标准、做法、触发、记忆、确认这些概念，产出并维护 work-loops/workflows/<名称>.md。由本人主动调用，例如「把这件事做成自动的」「设计一个工作流」，或在盘点（loop-audit）之后要落地某一项。
 argument-hint: "要设计的工作，或留空让 Agent 从 LOOPS.md 里挑"
 disable-model-invocation: true
 ---
@@ -13,7 +13,7 @@ disable-model-invocation: true
 
 ## 工作区
 
-读写 `agent-loop/`（见仓库 README）：
+读写 `work-loops/`（见仓库 README）：
 
 - `NOTES.md`：本人的工作环境。为空或很少时，先了解用了哪些系统、处理哪些渠道、各自怎么称呼，再开始写说明。
 - `LOOPS.md`：候选循环。没有指定要写哪个时，从这里挑每周节省最多、风险最低的一项，并说明理由。
